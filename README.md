@@ -92,33 +92,8 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Bheck890&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
+## Donations Welcome
 <div align="center">
             <a href="https://paypal.me/bheck756@gmail.com" target="_blank" style="display: inline-block;">
                 <img
