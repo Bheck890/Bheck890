@@ -1,13 +1,13 @@
 ### <div align="center">I'm Bailey, a Software developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Task Helper](https://github.com/Bheck890/LifeTaskHelper)  
+- 🔭 I’m currently working on an app to help with Finances for friends and app stores.
   
 
 - 🌱 I’m currently learning Flutter and SQL  
   
 
-- ❓ Ask me about anything related to Flutter stack and related technologies  
+- ❓ Ask me about anything related to Flutter stack and OOP related technologies  
   
 
 - ⚡ Fun fact: I jump around, and can adapt to learn a language pretty fast.  
