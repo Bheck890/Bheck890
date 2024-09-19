@@ -1,4 +1,4 @@
-### <div align="center">I'm Bailey, a Software developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Bailey, a Software developer 👨‍💻 working Hybrid since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on an app to help with Finances for friends and app stores.
