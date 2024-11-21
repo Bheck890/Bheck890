@@ -1,4 +1,4 @@
-### <div align="center">I'm Bailey, a Software developer 👨‍💻 working Hybrid since 2022 🚀</div>  
+### <div align="center">I'm Brandon, a Software Engineer 👨‍💻 since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on an app to help with Finances for friends and app stores, with Flutter and SQL.
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Cloud and Application Life cycles.
   
 
-- ❓ Ask me about anything related to Flutter stack and OOP related technologies  
+- ❓ Ask me about anything related to Flutter stack, and OOP related technologies  
   
 
 - ⚡ Fun fact: I jump around, and can adapt to learn a language pretty fast.  
