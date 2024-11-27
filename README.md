@@ -1,4 +1,4 @@
-### <div align="center">I'm Brandon, a Software Engineer 👨‍💻 since 2022 🚀</div>  
+### <div align="center">I'm Bailey, a Software Engineer 👨‍💻 since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on an app to help with Finances for friends and app stores, with Flutter and SQL.
